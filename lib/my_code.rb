@@ -29,5 +29,11 @@ def map_to_double(source_array)
 end
 
 def map_to_square(source_array)
+  temp_array = source_array
+  
+  index = 0
+  while index < temp_array.size do
+    
+  end
   
 end
