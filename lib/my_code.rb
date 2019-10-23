@@ -10,3 +10,4 @@ def map_to_negativize(source_array)
   
   return temp_array
 end
+
