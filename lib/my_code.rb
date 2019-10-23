@@ -15,3 +15,7 @@ def map_to_no_change(source_array)
   temp_array = source_array
   return temp_array
 end
+
+def map_to_double(source_array)
+  
+end
