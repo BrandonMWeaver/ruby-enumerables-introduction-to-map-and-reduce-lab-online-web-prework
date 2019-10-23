@@ -17,5 +17,12 @@ def map_to_no_change(source_array)
 end
 
 def map_to_double(source_array)
+  temp_array = source_array
   
+  index = 0
+  while index < temp_array.size do
+    temp_array[index] *= 2
+  end
+  
+  return temp_array
 end
