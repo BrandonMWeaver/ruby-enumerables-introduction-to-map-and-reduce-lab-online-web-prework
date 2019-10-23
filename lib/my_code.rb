@@ -12,5 +12,6 @@ def map_to_negativize(source_array)
 end
 
 def map_to_no_change(source_array)
-  
+  temp_array = source_array
+  return temp_array
 end
