@@ -22,6 +22,7 @@ def map_to_double(source_array)
   index = 0
   while index < temp_array.size do
     temp_array[index] *= 2
+    index += 1
   end
   
   return temp_array
